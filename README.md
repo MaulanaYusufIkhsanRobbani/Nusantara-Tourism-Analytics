@@ -3,11 +3,9 @@
 
 </div>
 
-# Run and deploy your AI Studio app
+# Nusantara Tourism Analytics
 
-This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/2b736f04-e5d9-4202-8be4-8392af86c0cc
 
 ## Run Locally
 
